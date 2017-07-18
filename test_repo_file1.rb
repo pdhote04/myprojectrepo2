@@ -1,5 +1,5 @@
 class Demo7
-
+  puts "hello there"
   puts "enter user type newuser/olduser::"
   user_type = gets.chomp
   if user_type == "newuser"
