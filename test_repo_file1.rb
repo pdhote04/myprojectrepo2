@@ -27,6 +27,7 @@ class Demo7
      puts "invalid user"
     end
    else
-   puts "plz enter user type" 
+   puts "plz enter user type"
+   puts "for pull request testing"
   end  
 end
