@@ -1,6 +1,8 @@
-
+ 
+class Demo7
+  puts "hello there"
   puts "enter user type newuser/olduser::"
-  user_type = gets.chomp
+  user_type = ge.chomp
   if user_type == "newuser"
    puts "enter name::"
    user_name = gets.chomp
@@ -26,6 +28,7 @@
      puts "invalid user"
     end
    else
-   puts "plz enter user type" 
+   puts "plz enter user type"
+   puts "for pull request testing"
   end  
 end
