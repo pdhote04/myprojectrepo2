@@ -1,4 +1,3 @@
- 
 class Demo2
   puts "hello there"
   puts "enter user type newuser/olduser::"
