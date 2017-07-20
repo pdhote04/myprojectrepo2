@@ -1,5 +1,5 @@
  
-class Demo1
+class Demo3
   puts "hello there"
   puts "enter user type newuser/olduser::"
   user_type = ge.chomp
